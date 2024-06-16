@@ -1,0 +1,24 @@
+2024-06-16 15:43:33 INFO  Version - HHH000412: Hibernate ORM core version 5.6.9.Final
+2024-06-16 15:43:33 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-06-16 15:43:33 WARN  ConnectionProviderInitiator - HHH000022: c3p0 properties were encountered, but the c3p0 provider class was not found on the classpath; these properties are going to be ignored.
+2024-06-16 15:43:33 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-06-16 15:43:33 INFO  pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5433/postgres]
+2024-06-16 15:43:33 INFO  pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-06-16 15:43:33 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-06-16 15:43:33 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-06-16 15:43:34 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2024-06-16 15:43:35 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@fe09383] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-06-16 15:43:35 INFO  JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-06-16 15:43:35 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://localhost:5433/postgres]
+2024-06-16 15:52:26 INFO  Version - HHH000412: Hibernate ORM core version 5.6.9.Final
+2024-06-16 15:52:27 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-06-16 15:52:27 WARN  ConnectionProviderInitiator - HHH000022: c3p0 properties were encountered, but the c3p0 provider class was not found on the classpath; these properties are going to be ignored.
+2024-06-16 15:52:27 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-06-16 15:52:27 INFO  pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5433/postgres]
+2024-06-16 15:52:27 INFO  pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-06-16 15:52:27 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-06-16 15:52:27 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-06-16 15:52:27 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2024-06-16 15:52:28 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@17229821] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-06-16 15:52:28 INFO  JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-06-16 15:52:28 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://localhost:5433/postgres]
